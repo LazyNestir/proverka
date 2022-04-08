@@ -1,0 +1,46 @@
+html {
+    background-color: bisque;
+}
+
+.container {
+    display: block;
+    padding: 2px;
+    background-color:#dbbf92 ;
+    max-width: 500px;
+    padding-left: 80px;
+}
+
+.h {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.btn {
+    margin-top: 12px;
+}
+
+.btn-delete {
+    margin-left: 10px;
+}
+
+.table {
+    max-width: 800px;
+	width: 100%;
+    margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+.table th {
+	font-weight: bold;
+	padding: 5px;
+	background: #c76161;
+	border: 1px solid #cccccc;
+}
+.table td {
+	border: 1px solid #dddddd;
+	padding: 5px;
+    background: #e94848;
+}
